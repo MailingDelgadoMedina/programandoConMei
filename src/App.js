@@ -6,10 +6,16 @@ function App() {
     <div className="App">
       <Fragment>
         <Navbar />
-        <div style={{ overflowY: "scroll", height: "800px" }}></div>
       </Fragment>
     </div>
   );
 }
 
 export default App;
+
+{
+  /** 
+  THIS IS USED FOR ADDING SOME SCROLL BARS TO TEST THE NAV BAR
+
+<div style={{ overflowY: "scroll", height: "800px" }}></div>*/
+}
