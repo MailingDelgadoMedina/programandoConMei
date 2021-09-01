@@ -1,0 +1,90 @@
+@charset "utf-8";
+	.st0
+{
+	background : -moz-linear-gradient(0% 50% 0deg,rgba(237, 31, 121, 1) 0%,rgba(102, 47, 144, 1) 100%);
+	background : -webkit-linear-gradient(0deg, rgba(237, 31, 121, 1) 0%, rgba(102, 47, 144, 1) 100%);
+	background : -webkit-gradient(linear,0% 50% ,100% 50% ,color-stop(0,rgba(237, 31, 121, 1) ),color-stop(1,rgba(102, 47, 144, 1) ));
+	background : -o-linear-gradient(0deg, rgba(237, 31, 121, 1) 0%, rgba(102, 47, 144, 1) 100%);
+	background : -ms-linear-gradient(0deg, rgba(237, 31, 121, 1) 0%, rgba(102, 47, 144, 1) 100%);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#ED1F79', endColorstr='#662F90' ,GradientType=0)";
+	background : linear-gradient(90deg, rgba(237, 31, 121, 1) 0%, rgba(102, 47, 144, 1) 100%);
+	position : absolute ;
+	left : 176px;
+	top : 70px;
+	width : 502px;
+	height : 427px;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ED1F79',endColorstr='#662F90' , GradientType=1);
+}
+.st1
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	position : absolute ;
+	left : 388px;
+	top : 236px;
+	width : 86px;
+	height : 106px;
+}
+.NormalCharacterStyle2
+{
+	font-family : Engravers MT;
+	font-size : 200px;
+	color : #753996;
+	color : rgb(117, 57, 150);
+}
+.NormalCharacterStyle4
+{
+	font-family : Engravers MT;
+	font-size : 140px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle5
+{
+	font-family : Engravers MT;
+	font-size : 140px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle
+{
+	font-family : Engravers MT;
+	font-size : 140px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle1
+{
+	font-family : Engravers MT;
+	font-size : 140px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle6
+{
+	font-family : Engravers MT;
+	font-size : 396px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle3
+{
+	font-family : Engravers MT;
+	font-size : 200px;
+	color : #ED1F79;
+	color : rgb(237, 31, 121);
+}
+.NormalCharacterStyle7
+{
+	font-family : Engravers MT;
+	font-size : 391px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle8
+{
+	font-family : Engravers MT;
+	font-size : 48px;
+	color : #ED1F79;
+	color : rgb(237, 31, 121);
+}
