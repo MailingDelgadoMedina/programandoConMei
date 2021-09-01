@@ -1,11 +1,13 @@
 import "./App.css";
 import React, { Fragment } from "react";
 import Navbar from "./components/Navbar";
+import FrontPage from "./components/FrontPage";
 function App() {
   return (
     <div className="App">
       <Fragment>
         <Navbar />
+        <FrontPage />
       </Fragment>
     </div>
   );
